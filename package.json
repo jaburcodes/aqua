@@ -64,7 +64,7 @@
     "font-awesome": "4.x.x",
     "gulp": "3.x.x",
     "gulp-concat": "2.x.x",
-    "gulp-less": "3.x.x",
+    "gulp-less": "4.x.x",
     "gulp-nodemon": "2.x.x",
     "gulp-rename": "1.x.x",
     "gulp-sourcemaps": "2.x.x",
