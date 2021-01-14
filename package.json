@@ -78,7 +78,7 @@
     "promptly": "2.x.x",
     "prop-types": "15.x.x",
     "proxyquire": "1.x.x",
-    "qs": "6.5.x",
+    "qs": "6.9.x",
     "react-dom": "15.x.x",
     "react-router-dom": "4.x.x",
     "require-dir": "0.3.x",
